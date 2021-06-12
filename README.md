@@ -14,10 +14,11 @@ Project is created with:
 * Python inbuilt libraries: numpy, pandas, sklearn, etc
 	
 ## Setup
-To run this project, 
-
+To run this project,
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+* From the link given below, download the zip file
+* link : https://drive.google.com/file/d/1opQXJhotSGlFb3rp3oZuXvfs0IDGyTeU/view?usp=sharing
+ the above link contains datasets needed for the program
+ * Extract the zip file into local machine
+ * From the folder, run Spam.pynb file
 ```
